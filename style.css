@@ -1,0 +1,33 @@
+#body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#heading{
+    width: 100%;
+    position: fixed;
+    background-color: wheat;
+    font-family: monospace;
+}
+#h5{
+    color: blue;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+
+
+#button{
+    width: 150px;
+    font-family: monospace;
+}
+
+
+#sound{
+    font-family: monospace;
+    color: yellowgreen;
+}
+#accuracy{
+    font-family: monospace;
+    color: yellowgreen;
+}
